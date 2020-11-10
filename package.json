@@ -1,0 +1,25 @@
+{
+    "name": "types-for-react-mic",
+    "version": "1",
+    "description": "TypeScript definitions for cleandersonlobo/react-mic",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "androettop",
+            "url": "https://github.com/androettop",
+            "githubUsername": "androettop"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/cleandersonlobo/react-mic/.git",
+        "directory": "/"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "typeScriptVersion": "2.9"
+}
